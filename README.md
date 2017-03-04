@@ -2,7 +2,9 @@
 
 ## Code School
 
-![alt tag](https://raw.githubusercontent.com/rogerforner/learning-git/codeschool-git-rogerforner.png)
+![alt text][logo]
+
+[logo]: https://github.com/rogerforner/learning-git/blob/master/codeschool-git-rogerforner.png?raw=true "TryGit"
 
 ## Referències
 
